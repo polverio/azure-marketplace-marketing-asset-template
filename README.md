@@ -1,6 +1,6 @@
 # Azure Marketplace - Marketing Asset generator
 
-An Adobe Illustrator template (.ait) to help when creating gallery assets for the Azure Marketplace. This template can be useful to build out your marketing assets for Azure Solution Templates, Managed Applications/Service Catalog, etc.
+This repository contains an Adobe Illustrator template (.ait) to help when creating gallery assets of the right size for the Azure Marketplace. This template can be useful to build out your marketing assets for Azure Solution Templates, Managed Applications, Service Catalog and Kubernetes Applications on Azure Kubernetes Service, etc.
 
 ## Why?
 
@@ -12,8 +12,8 @@ The Azure Marketplace/Cloud Partner Portal requires assets that are precisely si
 
 ![](screenshots/v1.png) 
 
-* Drop your designs on the relevant artboard.
-* File > Export > for Screens
+* Drop your designs on the relevant artboard and adjust as necessary.
+* File > Export > Export for Screens
 
 ![](screenshots/v1export.png)
 * Use the exported files in the Cloud Partner Portal or Partner Portal.
